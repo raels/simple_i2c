@@ -1,3 +1,5 @@
+![example workflow](https://github.com/raels/simple_i2c/actions/workflows/main.yml/badge.svg)
+
 # SimpleI2c
 
 SimpleI2C provides simple Ruby classes to perform I2C operations on linux systems resembling Raspbian / Raspberry OS.
