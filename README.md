@@ -1,4 +1,4 @@
-![example workflow](https://github.com/raels/simple_i2c/actions/workflows/main.yml/badge.svg)
+![Minitest](https://github.com/raels/simple_i2c/actions/workflows/ruby.yml/badge.svg)
 
 # SimpleI2c
 
