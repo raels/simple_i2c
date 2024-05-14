@@ -1,0 +1,4 @@
+module SimpleI2c
+  VERSION: String
+  # See the writing guide of rbs: https://github.com/ruby/rbs#guides
+end
