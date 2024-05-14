@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "A simple extensible framework for Raspberry Pi I2C"
   spec.homepage = "https://github.com/raels/simple_i2c"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.0.0"
+  spec.required_ruby_version = ">= 2.6"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
