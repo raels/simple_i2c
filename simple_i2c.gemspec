@@ -33,7 +33,7 @@ Gem::Specification.new do |spec|
 
   # Uncomment to register a new dependency of your gem
   # spec.add_dependency "example-gem", "~> 1.0"
-  spec.add_development_dependency "github-changelog-generator", "~> 1.16"
+  spec.add_development_dependency "github_changelog_generator", "~> 1.16"
   # spec.add_development_dependency "pry"
 
   # For more information and examples about making a new gem, check out our
